@@ -1,7 +1,7 @@
 export const demoThemeJimpower = () => ({
   "text-primary-color": "var(--primary-text-color)",
   "paper-item-icon-color": "var(--primary-text-color)",
-  "primary-color": "#5294E2",
+  "primary-color": "#42f306",
   "label-badge-red": "var(--accent-color)",
   "paper-tabs-selection-bar-color": "green",
   "light-primary-color": "var(--accent-color)",
